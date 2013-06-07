@@ -20,7 +20,7 @@ int main()
 	multiplication(aNumber,anotherNumber); //this is the function that will multiply two numbers
 	division(aNumber,anotherNumber); //this is the function that will divide two numbers
 	modulo(aNumber,anotherNumber); // this is the function that will take the remainder of divided number
-
+	return 0;
 
 	}
 
